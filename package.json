@@ -13,7 +13,8 @@
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
     "react-router-dom": "^7.11.0",
-    "lucide-react": "^0.562.0"
+    "lucide-react": "^0.562.0",
+    "@google/genai": "^1.38.0"
   },
   "devDependencies": {
     "vite": "^6.0.0",
